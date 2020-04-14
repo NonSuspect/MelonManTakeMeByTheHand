@@ -1,0 +1,19 @@
+{
+  "name": "MelonManTakeMeByTheHand",
+  "version": "1.0.0",
+  "description": "better than Johns",
+  "main": "bot.js",
+  "author": "Taylor T",
+  "dependencies": {
+    "-": "0.0.1",
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.1.1",
+    "save": "^2.4.0",
+    "winston": "^3.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
